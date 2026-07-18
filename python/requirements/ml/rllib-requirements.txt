@@ -1,6 +1,6 @@
 # For auto-generating an env-rendering Window.
 pyglet==1.5.15
-imageio-ffmpeg==0.4.5
+imageio-ffmpeg==0.6.0
 rich==13.7.1
 # Msgpack checkpoint stuff.
 msgpack
